@@ -17,7 +17,7 @@ const menus = [
     { nama: "KETUA", link: "ketua.html", img: "img/ketua.png" },
     { nama: "WAKIL KETUA", link: "wakilketua.html", img: "img/wakil.png" },
     { nama: "SEKRETARIS", link: "sekretaris.html", img: "img/sekretaris.png" },
-    { nama: "BENDAHARA", link: "sendahara.html", img: "img/bendahara.png" },
+    { nama: "BENDAHARA", link: "bendahara.html", img: "img/bendahara.png" },
     { nama: "PENDIDIKAN", link: "pendidikan.html", img: "img/pendidikan.png" },
     { nama: "KEAMANAN", link: "keamanan.html", img: "img/keamanan.png" },
     { nama: "AKOMODASI", link: "akomodasi.html", img: "img/akomodasi.png" },
