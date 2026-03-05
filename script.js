@@ -14,16 +14,16 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const menus = [
-    { nama: "KETUA", link: "Ketua.html", img: "img/ketua.png" },
-    { nama: "WAKIL KETUA", link: "WakilKetua.html", img: "img/wakil.png" },
-    { nama: "SEKRETARIS", link: "Sekretaris.html", img: "img/sekretaris.png" },
-    { nama: "BENDAHARA", link: "Bendahara.html", img: "img/bendahara.png" },
-    { nama: "PENDIDIKAN", link: "Pendidikan.html", img: "img/pendidikan.png" },
-    { nama: "KEAMANAN", link: "Keamanan.html", img: "img/keamanan.png" },
-    { nama: "AKOMODASI", link: "Akomodasi.html", img: "img/akomodasi.png" },
-    { nama: "KONHUM", link: "Konhum.html", img: "img/konhum.png" },
-    { nama: "ORKES", link: "Orkes.html", img: "img/orkes.png" },
-    { nama: "KEBERSIHAN", link: "Kebersihan.html", img: "img/kebersihan.png" }
+    { nama: "KETUA", link: "ketua.html", img: "img/ketua.png" },
+    { nama: "WAKIL KETUA", link: "wakilketua.html", img: "img/wakil.png" },
+    { nama: "SEKRETARIS", link: "sekretaris.html", img: "img/sekretaris.png" },
+    { nama: "BENDAHARA", link: "sendahara.html", img: "img/bendahara.png" },
+    { nama: "PENDIDIKAN", link: "pendidikan.html", img: "img/pendidikan.png" },
+    { nama: "KEAMANAN", link: "keamanan.html", img: "img/keamanan.png" },
+    { nama: "AKOMODASI", link: "akomodasi.html", img: "img/akomodasi.png" },
+    { nama: "KONHUM", link: "konhum.html", img: "img/konhum.png" },
+    { nama: "ORKES", link: "orkes.html", img: "img/orkes.png" },
+    { nama: "KEBERSIHAN", link: "kebersihan.html", img: "img/kebersihan.png" }
 ];
 
 const gridContainer = document.getElementById("main-grid");
